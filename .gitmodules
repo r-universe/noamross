@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/noamross/noamross.r-universe.dev
 	branch = HEAD
+[submodule "duckspending"]
+	path = duckspending
+	url = https://usaspending.grant-witness.us/r-package/duckspending
 [submodule "mgcv"]
 	path = mgcv
 	url = https://github.com/noamross/mgcv
