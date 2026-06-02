@@ -5,6 +5,9 @@
 [submodule "RD1"]
 	path = RD1
 	url = https://github.com/noamross/RD1
+[submodule "airtable2"]
+	path = airtable2
+	url = https://github.com/noamross/airtable2
 [submodule "duckspending"]
 	path = duckspending
 	url = https://usaspending.grant-witness.us/r-package/duckspending
