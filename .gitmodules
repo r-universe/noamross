@@ -10,7 +10,7 @@
 	url = https://github.com/noamross/airtable2
 [submodule "duckspending"]
 	path = duckspending
-	url = https://usaspending.grant-witness.us/r-package/duckspending
+	url = https://usaspending.grant-witness.us/r-package/duckspending.git
 [submodule "mgcv"]
 	path = mgcv
 	url = https://github.com/noamross/mgcv
