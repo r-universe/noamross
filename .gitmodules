@@ -11,9 +11,6 @@
 [submodule "duckspending"]
 	path = duckspending
 	url = https://usaspending.grant-witness.us/r-package/duckspending.git
-[submodule "ggwordstream"]
-	path = ggwordstream
-	url = https://github.com/noamross/ggwordstream
 [submodule "mgcv"]
 	path = mgcv
 	url = https://github.com/noamross/mgcv
